@@ -8,9 +8,3 @@ OpenCart 1.4.x/1.5.x compatible!
 
 3. For reset SQL cache, you can save in cache with key 'sql_globalresetcache' current time (time()).
 
-
-// Ask the question:
-http://forum.opencart.com/viewtopic.php?t=28251
-
-// Ukrainian support:
-http://forum.opencart.ua/viewtopic.php?f=5&t=79

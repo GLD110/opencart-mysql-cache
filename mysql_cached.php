@@ -10,11 +10,11 @@
  * http://www.gnu.org/copyleft/gpl.html
  * If you did not receive a copy of the license and are unable to
  * obtain it through the world-wide-web, please send an email
- * to license@opencart.ua so we can send you a copy immediately.
+
  *
  * @category   OpenCart
  * @package    OCU MySQL Caching
- * @copyright  Copyright (c) 2011 created by UncleAndy, maintained by Eugene Kuligin for OpenCart Ukrainian Community (http://www.opencart.ua)
+ * @copyright  Copyright (c) 2011 created by UncleAndy, maintained by Eugene Lifescale for OpenCart Ukrainian Community (http://opencart-ukraine.tumblr.com)
  * @license    http://www.gnu.org/copyleft/gpl.html     GNU General Public License, Version 3
  */
 
