@@ -126,14 +126,14 @@ final class MySQL_Cached {
     }
 
       public function countAffected() {
-        if ($this->cachedquery)
+        if (isset($this->cachedquery) && $this->cachedquery)
         {
         return $this->cachedquery->num_rows;
         }
         else
         {
         return mysql_affected_rows($this->connection);
-        };
+        }
       }
 
       public function getLastId() {
