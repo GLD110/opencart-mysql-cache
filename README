@@ -1,4 +1,7 @@
-OpenCart 1.4.x/1.5.x compatible!
+OpenCart 2.0 compatible (beta, thanks to @aruncnt)
+
+OpenCart 1.4.x/1.5.x stable version:
+https://github.com/shaman/opencart-mysql-cache/tree/1.4/1.5
 
 1. Copy mysql_cached.php file into the /system/library/database
 2. Change /config.php file only:
